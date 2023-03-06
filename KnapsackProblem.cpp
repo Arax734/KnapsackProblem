@@ -7,8 +7,8 @@
 using namespace std;
 
 struct Item {
-    double value;  // wartość przedmiotu
-    int weight;  // waga przedmiotu
+    double value;
+    int weight; 
 };
 
 bool cmp(Item a, Item b) {
